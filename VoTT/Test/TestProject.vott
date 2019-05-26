@@ -1,0 +1,144 @@
+{
+    "name": "TestProject",
+    "securityToken": "TestProject Token",
+    "sourceConnection": {
+        "name": "SejongAI_src",
+        "description": "sejong ai source mp4 to jpg files",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiYzhhZjQ5NjE1ZThkYTZkNjc3NTc1YjlhZGQ1MzI3OThhNDFjYzIzNmJiYjQxNWVkOTQzYzI0MTBhZDQ2NGQ5ZTE0MGU3MjU0Y2E2NmU0MzRlNTY2ZWMzZmEzYmQxM2M1Njc2MTUwNDE5NWY2Y2NlZDJlYTIxNjgyZGQyYTg2MWMiLCJpdiI6IjNkNjQyNmY4NTM1MWU1NDRjNzhiMjdjMjUyYzUxN2FjMmViMjY1YTQ5NjNjMGQwZCJ9"
+        },
+        "id": "nUHCSyqoI"
+    },
+    "targetConnection": {
+        "name": "SejongAI_dst",
+        "description": "sejong ai destination root",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZDg3NjU2M2Y2MGFmNzM5ODQyODg3NmM2MWNlY2U2ZGVjNzk0NWQwNTc1Y2MwMzljOTAyOTI2YWM2ZGFlOWM4ODk5ODNkYTNkNzZmNGQ1ZDI3YmY3NDY2MzExMjcwZjQ3IiwiaXYiOiI1MzI2MGJjZWFjNzEyYzlmY2E4ZWE3MmQ2MjNiYjY1MTYyYWE3YWRiMmIwYjk5NTMifQ=="
+        },
+        "id": "UCMdP4TX4"
+    },
+    "description": "project settings test",
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "cone_construct",
+            "color": "#808000"
+        },
+        {
+            "name": "cone_parking",
+            "color": "#008000"
+        },
+        {
+            "name": "fence",
+            "color": "#00FFFF"
+        },
+        {
+            "name": "sewer",
+            "color": "#0000FF"
+        },
+        {
+            "name": "Barricade",
+            "color": "#FF00FF"
+        },
+        {
+            "name": "sign",
+            "color": "#800080"
+        },
+        {
+            "name": "milestone",
+            "color": "#FF0000"
+        },
+        {
+            "name": "flowerpot",
+            "color": "#800000"
+        },
+        {
+            "name": "street_lamp",
+            "color": "#800080"
+        },
+        {
+            "name": "kerb_stone",
+            "color": "#800000"
+        },
+        {
+            "name": "kerb_wooden",
+            "color": "#008000"
+        },
+        {
+            "name": "stair_stone",
+            "color": "#00FFFF"
+        },
+        {
+            "name": "stair_wooden",
+            "color": "#008080"
+        }
+    ],
+    "id": "yvb58tZ90",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "exportFormat": {
+        "providerType": "vottJson",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZGU5OTY0MjdhNTIyOTU2OWFkNDczMzAyY2FiZjA4NTQ1ZWE1MzQ5MTFkYmM3NGI4ZjVhZTY5NzNkYjg2ZGUyOWNkZDFlMjYxN2NiYzkyZDM5ZWM3MDYzZjMzMDQwOWFiIiwiaXYiOiJiNGI1NTE3YTU5ZjRjYzMyNGRjMDM2YThjNWY3MzliMTZkNGVhMzdmNTZmODlkY2YifQ=="
+        }
+    },
+    "version": "2.1.0",
+    "lastVisitedAssetId": "b24edba894b648e818dd03a5123bd6ea",
+    "assets": {
+        "b24edba894b648e818dd03a5123bd6ea": {
+            "format": "jpg",
+            "id": "b24edba894b648e818dd03a5123bd6ea",
+            "name": "frame00000.jpg",
+            "path": "file:D:/ai_project/video_fame_data/frame00000.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fc16e59d6b689e64909e9988ac049bcc": {
+            "format": "jpg",
+            "id": "fc16e59d6b689e64909e9988ac049bcc",
+            "name": "frame00001.jpg",
+            "path": "file:D:/ai_project/video_fame_data/frame00001.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 1,
+            "type": 1
+        },
+        "e7777ddfdf7edcc3404569c870262dbf": {
+            "format": "jpg",
+            "id": "e7777ddfdf7edcc3404569c870262dbf",
+            "name": "frame00002.jpg",
+            "path": "file:D:/ai_project/video_fame_data/frame00002.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 1,
+            "type": 1
+        },
+        "223efe06a5c63153e317b389e227a1f5": {
+            "format": "jpg",
+            "id": "223efe06a5c63153e317b389e227a1f5",
+            "name": "frame00003.jpg",
+            "path": "file:D:/ai_project/video_fame_data/frame00003.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 1,
+            "type": 1
+        }
+    }
+}
