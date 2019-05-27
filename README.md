@@ -52,11 +52,10 @@
 7. Name과 Key 칸에 다운받았던 txt파일에 들어있는 값들을 복사해주고 저장합니다.
 
 ![image](https://user-images.githubusercontent.com/30471027/58376700-10d46180-7fab-11e9-9c97-2424bbcdfa86.png)
-~~~
-8. `VoTT/src` 폴더에 들어가 `video2jpg.exe`를 실행합니다.
 
-![image](https://user-images.githubusercontent.com/30471027/58391751-1ba5f980-8072-11e9-9bbf-52dfc0d1e95e.png)
-~~~
+~~8. `VoTT/src` 폴더에 들어가 `video2jpg.exe`를 실행합니다.~~
+
+~~![image](https://user-images.githubusercontent.com/30471027/58391751-1ba5f980-8072-11e9-9bbf-52dfc0d1e95e.png)~~
 
 9. 메인에서 `Open Local Project`를 눌러 `~/Test` 폴더에 있는 `TestProject.vott` 파일을 로드합니다.
 
