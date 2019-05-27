@@ -62,10 +62,3 @@
 10. 좌측 상단에서 플러그 모양 아이콘을 눌러 `Connection Settings` 메뉴로 들어갑니다.
 
 11. src는 비디오 프레임이 있는 경로를, dst는 `~/Test` 경로로 설정해주고 저장합니다.
-
-
-
-
-
-
-. Open Local Project를 눌러 
