@@ -17,6 +17,8 @@
 
 [dataset](https://drive.google.com/open?id=1Kq4-xntWRRqfDeJDeFJQO7UrZr0ad7Gm)
 
+[cropped_frame](https://drive.google.com/file/d/1QIeH_7zVEwnaaPsmO8BWLoxuz_kGcBMo/view?usp=sharing)
+
 ---
 
 ### Anootation Tool Setting
