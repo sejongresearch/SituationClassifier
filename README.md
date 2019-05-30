@@ -1,7 +1,7 @@
 # SituationClassifier
 
 ## Situation classification using obstacle detection
-## 장애물 검출을 통한 상황 분류
+> 장애물 검출을 통한 상황 분류
 
 ### 팀원 구성
 | 이름 | 학과 | 학번 | 비고 |
