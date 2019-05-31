@@ -84,40 +84,62 @@
 
 ---
 
+## 진행 경과
 
-
+- 05/22 8분여 분량의 30FPS HD 교내 도보영상 촬영
+- 05/23 14,000여개의 프레임으로 분할 후 각 팀원에게 할당
+- 05/24 물체 분류 기준 설정
+- 05/25~ VoTT 작업 환경 구축
+- ~05/28 annotation 작업
+- 05/29 label crop 작업하여 class별로 추출 후 인계
+- 05/30
+  - Viola Jones에 문제점 발생, Darknet 도입 의논
+  - 교수님과의 면담 -> 방향 재설정
 ---
 
 ## 한계
 
-- 
+- 양질의 public dataset을 이용하지 않고 직접 제작을 시도했으나,
+  - 촬영 장비가 스마트폰이여서 흔들림이 심하고
+  - 촬영 장소인 교내가 차도와 인도의 구분이 뚜렷하지 않고
+  - 분량이 턱없이 부족하여
+  학습하기에 부적합하였음
+
+- 팀원들의 역량만으로는 해결하기에 어려움이 큰 주제
+
+- 이에 따라 교수님과의 면담 후 역할 분담과 계획을 재설정하기로 결정함
 
 ---
 
+---
+
+## 이후 일정
+
+6/2  오후 9시 - 연구 방향성 각자의 결과를 ISSUE 에 리포트한다.
+
+6/2 (일) - KITTI 데이터셋에 대한 각자의 이해 문서로 표현하여 돌려본다.
+
+6/3 (월) - 각자의 역할에 대한 연구를 시작한다. (어려운 점은 바로바로 공유한다)
+
+6/5 (수) - 중간점검  
+
+---
+
+## survey
+
+- [SSD-tensorflow](https://github.com/balancap/SSD-Tensorflow)
+
+- [KITTI Vision Benchmark Suite](http://www.cvlibs.net/datasets/kitti/)
+
+- [mannequinchallenge](https://github.com/google/mannequinchallenge)
 
 
 
+---
 
+## Applied reference
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+> 준비중입니다.
 
 ---
 
@@ -127,7 +149,7 @@
 
 ~~[cropped_frame](https://drive.google.com/file/d/1QIeH_7zVEwnaaPsmO8BWLoxuz_kGcBMo/view?usp=sharing)~~
 
-- _~~VOTT(Labeling tool)~~
+- _~~[VOTT(Labeling tool)](https://github.com/microsoft/VoTT)~~
 
 
 ---
