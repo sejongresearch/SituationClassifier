@@ -39,9 +39,12 @@
 ---
 ## 사전 survery
 
+> Core
+
 - [COCO Dataset](http://cocodataset.org/)
 - *[Toward Driving Scene Understanding: A Dataset for Learning Driver Behavior and Causal Reasoning, CVPR2018](http://openaccess.thecvf.com/content_cvpr_2018/papers/Ramanishka_Toward_Driving_Scene_CVPR_2018_paper.pdf)*
 
+> 이 외는 회의록에서 열람 가능
 
 ---
 
@@ -90,7 +93,8 @@
 - 05/23 14,000여개의 프레임으로 분할 후 각 팀원에게 할당
 - 05/24 물체 분류 기준 설정
 - 05/25~ VoTT 작업 환경 구축
-- ~05/28 annotation 작업
+- 05/27 annotation 작업
+- ~05/28 Pre-trained COCO SSD dataset을 이용한 Activate Learning에 현재까지 작업된 annotation을 적용하기로 함
 - 05/29 label crop 작업하여 class별로 추출 후 인계
 - 05/30
   - Viola Jones에 문제점 발생, Darknet 도입 의논
@@ -105,15 +109,32 @@
   - 분량이 턱없이 부족하여
   학습하기에 부적합하였음
 
+- 장애물의 기준이 상이하여 팀원 간 일부 태그에 불일치가 발견됨
+
+- 경계석(연석)을 기준으로 위험도를 분류하기 위해 검출을 시도했으나,
+  - 경계석의 곡률이 커서 객체 검출 방법론으로 학습하기에 어려움이 있음
+
+- 최신 버전의 도구를 이용하다 보니 메뉴얼이나 관련 이슈에 관한 솔루션 등이 적어 어려움을 겪음
+
 - 팀원들의 역량만으로는 해결하기에 어려움이 큰 주제
 
 - 이에 따라 교수님과의 면담 후 역할 분담과 계획을 재설정하기로 결정함
 
 ---
 
+# 남은 목표
+
+- DATASET에 대한 문제점을 KITTI 데이터셋을 이용하여 DEPTH, RGB데이터를 통한 장애물들을 인식할 수 있는지 시도
+
+- 시간적인 여유를 고려하여 결과물을 보일 시 먼저 데모를 뽑아 확인
+
+- Object Detection으로 SSD, YOLO를 동시 구현해보고 두 방법론의 성능 차이를 비교
+
+- 위의 결과로 User Interface를 어떤 것을 서비스 할 수 있을지 연구
+
 ---
 
-## 이후 일정
+## 남은 일정
 
 6/2  오후 9시 - 연구 방향성 각자의 결과를 ISSUE 에 리포트한다.
 
