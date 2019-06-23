@@ -6,10 +6,10 @@
 ### Team
 | 이름 | 학과 | 학번 | 구성 | 역할 |코드|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **위성민** | 무인이동체공학전공 | 17011877 | **팀장** | 도로 검출 |~~[도로 ](링크)~~ |
+| **위성민** | 무인이동체공학전공 | 17011877 | **팀장** | 도로 검출 |[Road Detection](https://github.com/sejongresearch/SituationClassifier/blob/master/roaddetection.ipynb) [Free Space Detection](https://github.com/sejongresearch/SituationClassifier/blob/master/freespacedetection.ipynb)|
 | 최용호 | 스마트기기공학전공 | 17013253 | 팀원 | 깊이 추정 |~~[뎁스](링크)~~ |
 | 권영서 | 무인이동체공학전공 | 17011794 | 팀원 | UI |[GUI](https://github.com/sejongbhaj/SituationClassifier/blob/master/GUI.py#L8) |
-| 김남훈 | 스마트기기공학전공 | 17011832 | 팀원 | 객체 검출 | ~~[물체 검출](링크)~~|
+| 김남훈 | 스마트기기공학전공 | 17011832 | 팀원 | 객체 검출 | [물체 검출](https://github.com/sejongresearch/SituationClassifier/blob/master/ODTA_SejongBHAJ.ipynb)|
 | 강산희 | 무인이동체공학전공 | 17011855 | 팀원 | 데이터셋 | |
 
 ---
