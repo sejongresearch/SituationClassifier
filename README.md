@@ -14,7 +14,7 @@
 
 ---
 [논문](링크)
-[PPT](링크)
+[PPT](https://drive.google.com/file/d/12MXcc1t8vGPjQFWNhLX-h3dCDu7KwUGf/view?usp=sharing)
 ---
 ## 목표
 ---
