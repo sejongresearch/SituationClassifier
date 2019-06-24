@@ -13,7 +13,7 @@
 | 강산희 | 무인이동체공학전공 | 17011855 | 팀원 | 데이터셋 | |
 
 ---
-- [논문](https://github.com/sejongresearch/SituationClassifier/blob/master/SejongBHAJ.pdf)
+- [논문](https://github.com/sejongresearch/SituationClassifier/blob/master/%EB%B3%B4%ED%96%89%EC%9E%90%EB%A5%BC_%EC%9C%84%ED%95%9C_%EC%9E%A5%EC%95%A0%EB%AC%BC_%EC%9C%84%ED%97%98%EB%8F%84_%EB%B6%84%EB%A5%98%EA%B8%B0_%EC%97%B0%EA%B5%AC.pdf)
 - [PPT](https://drive.google.com/file/d/12MXcc1t8vGPjQFWNhLX-h3dCDu7KwUGf/view?usp=sharing)
 ---
 ## 목표
